@@ -1,0 +1,109 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1667985199433') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-addressbook:before {
+  content: "\e6e2";
+}
+
+.icon-collection_fill:before {
+  content: "\e6ea";
+}
+
+.icon-collection:before {
+  content: "\e6eb";
+}
+
+.icon-emoji_fill:before {
+  content: "\e6f6";
+}
+
+.icon-emoji:before {
+  content: "\e6f7";
+}
+
+.icon-group:before {
+  content: "\e6ff";
+}
+
+.icon-label:before {
+  content: "\e706";
+}
+
+.icon-label_fill:before {
+  content: "\e707";
+}
+
+.icon-like_fill:before {
+  content: "\e708";
+}
+
+.icon-lock_fill:before {
+  content: "\e709";
+}
+
+.icon-lock:before {
+  content: "\e70a";
+}
+
+.icon-mail:before {
+  content: "\e70b";
+}
+
+.icon-mine:before {
+  content: "\e70e";
+}
+
+.icon-mine_fill:before {
+  content: "\e70f";
+}
+
+.icon-people_fill:before {
+  content: "\e715";
+}
+
+.icon-people:before {
+  content: "\e716";
+}
+
+.icon-prompt:before {
+  content: "\e71b";
+}
+
+.icon-qrcode:before {
+  content: "\e71c";
+}
+
+.icon-select:before {
+  content: "\e725";
+}
+
+.icon-unlock_fill:before {
+  content: "\e73a";
+}
+
+.icon-unlock:before {
+  content: "\e73b";
+}
+
+.icon-warning:before {
+  content: "\e73d";
+}
+
+.icon-decoration_fill:before {
+  content: "\e74f";
+}
+
+.icon-commodity:before {
+  content: "\e764";
+}
+
